@@ -36,6 +36,11 @@ To test if your variables has the correct value, use `print()`.
 
   print(money)
   // This prints 50
+  
+  let see_no_evil = "🙈"
+  
+  print(see_no_evil)
+  //prints an emoji
 ```
 
 #### More Information:
